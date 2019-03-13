@@ -1,0 +1,17 @@
+
+.printh1 {
+    font-size: 800%;
+}
+
+.printh2 {
+    font-size: 600%;
+}
+
+.printh3 {
+    font-size: 400%;
+}
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
